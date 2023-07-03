@@ -1,5 +1,8 @@
-Data to run AirPollutionClimateParameters.ipynb notebook 
+link to get Data to run AirPollutionClimateParameters.ipynb notebook 
 https://drive.google.com/file/d/1X5Zv2RddODHMelIaC6EB4KlhI3CGGbey/view?usp=sharing
+
+link to get Data to run WaterPollution.ipynb notebook 
+https://drive.google.com/file/d/1nyyPkymQ-ZJAQZdqdLoG6Pl5Bc3zftmf/view?usp=sharing
 
 # EnvironmentalDataMonitoring
 AI system that can collect, process, and analyze various types of environmental data. The system provides insights and visualizations to understand the current state of the environment.
