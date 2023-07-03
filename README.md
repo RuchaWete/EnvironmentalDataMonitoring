@@ -37,6 +37,9 @@ We can clearly observe that the p-values are very low making the regression accu
 
 To successfully run the notebook file ensure the path has been set correctly.
 
+# Water Pollution
+
+Similar to the air quality notebook I did analysis on water quality. The steps too were similar which involved data cleaning and preprocessing and visualizations
 
 # Current Data Visualization
 Current data was obtained from weather websites and output to the csv file statewise. This was then visualized using Power BI. The dashboard "Airpresent" has graphs representing this data in an easy to understand and coherent manner. The datafile can be updated with more recent data to automatically update the visuals.
