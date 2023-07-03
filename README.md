@@ -1,3 +1,6 @@
+Data to run AirPollutionClimateParameters.ipynb notebook 
+https://drive.google.com/file/d/1X5Zv2RddODHMelIaC6EB4KlhI3CGGbey/view?usp=sharing
+
 # EnvironmentalDataMonitoring
 AI system that can collect, process, and analyze various types of environmental data. The system provides insights and visualizations to understand the current state of the environment.
 # Current Data Visualization
