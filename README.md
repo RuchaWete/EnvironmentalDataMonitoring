@@ -13,6 +13,7 @@ The airpollution jupyter notebook has been trained on the dataset available in t
 2. Creating plots to better interpret the data
 3. Implementing EDA techniques to visualize the data
 4. Training a multi-linear regression model on relation inferred from EDA
+
 To successfully run the notebook file ensure the path has been set correctly.
 
 
