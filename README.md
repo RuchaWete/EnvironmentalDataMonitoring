@@ -33,13 +33,13 @@ Dataset after cleaning is -
 8. Linear regression was trained on inferred correlations. The regressions have very satisfactory values which have been attached below - 
 
 ![WhatsApp Image 2023-07-03 at 22 54 03](https://github.com/RuchaWete/EnvironmentalDataMonitoring/assets/77842772/d6b65864-fc1d-42c9-8ed5-3e99cd489f04)
-We can clearly observe that the p-values are very low making the regression accurate. We can further infer the coefficients to understand the impact of different gases on air pollution.
+We can clearly observe that the p-values are very low making the regression accurate. Only for PM-10 the p-value is high and therefore the relation with PM-10 is not valid. We can further infer the coefficients to understand the impact of different gases on air pollution. 
 
 To successfully run the notebook file ensure the path has been set correctly.
 
 # Water Pollution
 
-Similar to the air quality notebook I did analysis on water quality. The steps too were similar which involved data cleaning and preprocessing and visualizations
+Similar to the air quality notebook I did analysis on water quality. The steps too were similar which involved data cleaning and preprocessing and visualizations. The notebook has been designed to be easily understandable and interpretable.
 
 # Current Data Visualization
 Current data was obtained from weather websites and output to the csv file statewise. This was then visualized using Power BI. The dashboard "Airpresent" has graphs representing this data in an easy to understand and coherent manner. The datafile can be updated with more recent data to automatically update the visuals.
